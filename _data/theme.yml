@@ -23,7 +23,7 @@ browse-buttons: true # true/false, adds previous/next arrows to item pages
 ##########
 # SUBJECTS PAGE
 #
-subjects-fields: title # set the field to be featured in the cloud (if left blank, none will be generated)
+subjects-fields: title;subject;description # set the field to be featured in the cloud (if left blank, none will be generated)
 subjects-min: 2 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: of;the # set of subjects separated by ;, e.g. boxers;boxing
 
