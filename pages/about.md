@@ -7,8 +7,11 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-
+<p align="center">
+  
 ![This is an image](https://images.findagrave.com/photos/2020/298/25592159_4ae9495c-b830-47be-85f6-524b401c36cf.jpeg)
+  
+</p>
 
 ## About the Collection
 
