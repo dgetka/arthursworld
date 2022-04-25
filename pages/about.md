@@ -19,5 +19,5 @@ Johnson was born and raised in northern Indiana, spending his childhood and adol
 
 In 1921 Johnson was buried at Augsburg Lutheran Church in Porter, Indiana, one of the two towns represented in this collection. The other town, Chesterton, Indiana, was the last place he called home before he left for France.
 
-The postcards in this collection range from 1908 to 1915, offering a glimpse of the towns and their surrounding environs exactly as Johnson would have known them.
+The postcards in this collection range from 1908 to 1915, offering a glimpse of the towns and their surrounding environs as Johnson would have known them.
 
