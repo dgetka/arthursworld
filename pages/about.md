@@ -7,8 +7,9 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-![portrait of Lieutenant](https://images.findagrave.com/photos/2020/298/25592159_4ae9495c-b830-47be-85f6-524b401c36cf.jpeg)
 ## About the Collection
+
+![portrait of Lieutenant](https://images.findagrave.com/photos/2020/298/25592159_4ae9495c-b830-47be-85f6-524b401c36cf.jpeg)
 
 This collection of early 20th century postcards is intended to reflect the world as one person saw it: Lieutenant Arthur Theodore Johnson (1896-1918). Johnson was born and raised in northern Indiana, spending his childhood and adolescence moving between towns along the Lake Michigan shoreline.
 
