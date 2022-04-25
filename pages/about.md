@@ -1,12 +1,3 @@
----
-title: About
-layout: about
-permalink: /about.html
-# include CollectionBuilder info at bottom
-credits: true
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
----
 ## About the Collection
 
 ![portrait of Lieutenant](https://images.findagrave.com/photos/2020/298/25592159_4ae9495c-b830-47be-85f6-524b401c36cf.jpeg)
@@ -17,4 +8,14 @@ Johnson was born and raised in northern Indiana, spending his childhood and adol
 
 In 1921 Johnson was buried at Augsburg Lutheran Church in Porter, Indiana, one of the two towns represented in this collection. The other town, Chesterton, Indiana, was the last place he called home before he left for France.
 
-The postcards in this collection range from 1908 to 1915, offering a glimpse into the towns and their surrounding environs exactly as Johnson would have known them.
+The postcards in this collection range from 1908 to 1915, offering a glimpse of the towns and their surrounding environs exactly as Johnson would have known them.
+
+---
+title: About
+layout: about
+permalink: /about.html
+# include CollectionBuilder info at bottom
+credits: true
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
+---
