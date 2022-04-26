@@ -15,7 +15,7 @@ credits: true
 
 This collection of early 20th century postcards is intended to reflect the world as one person saw it: Lieutenant Arthur Theodore Johnson (1896-1918). 
 
-Johnson was born and raised in northern Indiana, spending his childhood and adolescence moving between towns along the Lake Michigan shoreline. When America entered the First World War, he joined the fledgling air service and trained as an aerial observer, arriving in France in early 1918. He was killed on the first day of the St. Mihiel Offensive on September 12, 1918, when his plane was struck by an American artillery shell and went down in flames.
+Born and raised in northern Indiana, Johnseon spent his childhood and adolescence moving between towns along the Lake Michigan shoreline. When America entered the First World War, he joined the fledgling air service and trained as an aerial observer, arriving in France in early 1918. He was killed on the first day of the St. Mihiel Offensive on September 12, 1918, when his plane was struck by an American artillery shell and went down in flames.
 
 In 1921 Johnson was buried at Augsburg Lutheran Church in Porter, Indiana, one of the two towns represented in this collection. The other town, Chesterton, Indiana, was the last place he called home before he left for France.
 
