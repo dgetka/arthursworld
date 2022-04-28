@@ -21,3 +21,5 @@ In 1921 Johnson was buried at Augsburg Lutheran Church in Porter, Indiana, one o
 
 The postcards in this collection range from 1908 to 1915, offering a glimpse of the towns and their surrounding environs as Johnson would have known them.
 
+(portrait of Johnson obtained from *Gold Star Honor Roll: A Record of Indiana Men and Women who died in the service of the United States and the Allied Nations in the World War*)
+
